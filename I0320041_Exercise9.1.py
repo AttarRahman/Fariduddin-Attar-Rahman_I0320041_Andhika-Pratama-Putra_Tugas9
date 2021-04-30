@@ -14,4 +14,4 @@ def main():
     print("Hari ke-%d adalah %s" % (nohari, HARI[nohari-1]))
 
 if __name__ == "__main__":
-    main()
+    main()p
